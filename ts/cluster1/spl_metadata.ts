@@ -7,6 +7,7 @@ import {
     DataV2Args
 } from "@metaplex-foundation/mpl-token-metadata";
 import { createSignerFromKeypair, signerIdentity, publicKey } from "@metaplex-foundation/umi";
+import bs58 from "bs58";
 
 // Define our Mint address
 const mint = publicKey("75kDE5KJwLeUdAHfBTwgVrwu89cknp7GDLiQfk9gBF7t")
@@ -53,8 +54,8 @@ umi.use(signerIdentity(createSignerFromKeypair(umi, keypair)));
             }
         )
 
-        // let result = await tx.sendAndConfirm(umi);
-        // console.log(bs58.encode(result.signature));
+        let result = await tx.sendAndConfirm(umi);
+        console.log(bs58.encode(result.signature));
     } catch(e) {
         console.error(`Oops, something went wrong: ${e}`)
     }
