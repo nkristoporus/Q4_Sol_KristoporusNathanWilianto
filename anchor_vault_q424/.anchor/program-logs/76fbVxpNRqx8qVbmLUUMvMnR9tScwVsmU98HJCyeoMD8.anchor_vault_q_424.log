@@ -1,0 +1,62 @@
+Streaming transaction logs mentioning 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8. Confirmed commitment
+Transaction executed in slot 5:
+  Signature: 2Wy9dEnGbvrSqhjPUwL1UMsJdYonvU4N6U4CszouvUrT1bPbFqmajSq7rHpKzPrWPQuuMipiSe4TemWfDHSs4mtD
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Greetings from: 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 28124 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
+Transaction executed in slot 6:
+  Signature: 3iye8qqAwYZSaDkChUsKGLgdLimMnrXA9DSKo7GJsw2VUZoodaEKfMbbWsCGyo98DVektKe7ovKK2Ug68x6DUKd6
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Deposit
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 6900 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
+Transaction executed in slot 6:
+  Signature: 2FCfAyGQuNYUAkTYV1wwkyMsT6dYhNkae281hPKXKfFJEkkNRzrV6wXrJvQQdFSZ4gLXGYEfPyqvbgz1JYd781kD
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Withdraw
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 6955 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
+Transaction executed in slot 7:
+  Signature: 2FCfAyGQuNYUAkTYV1wwkyMsT6dYhNkae281hPKXKfFJEkkNRzrV6wXrJvQQdFSZ4gLXGYEfPyqvbgz1JYd781kD
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Withdraw
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 6955 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
+Transaction executed in slot 7:
+  Signature: 5PNsxR8w8q3bgKmMox2qH15iyA4bbci2Uf94wLUfJRweTRfp3StbgqoWfrXnGpwt8gMAFtu39DUdJbgp9YB2EGX4
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Close
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 6964 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
+Transaction executed in slot 8:
+  Signature: 5PNsxR8w8q3bgKmMox2qH15iyA4bbci2Uf94wLUfJRweTRfp3StbgqoWfrXnGpwt8gMAFtu39DUdJbgp9YB2EGX4
+  Status: Ok
+  Log Messages:
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 invoke [1]
+    Program log: Instruction: Close
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 consumed 6964 of 200000 compute units
+    Program 76fbVxpNRqx8qVbmLUUMvMnR9tScwVsmU98HJCyeoMD8 success
